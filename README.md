@@ -1,2 +1,2 @@
 # Embedded_IoT_Linux_Python_CPP
-My IoT works, which was a part of a project to provide a web-ui that read out data, that was sended by differents sensors and so on. It isn't complete, just IoT-Code-Parts. 
+A few IoT works were part of a project aimed at providing a web UI that reads data sent by various sensors and more. These are incomplete IoT code parts.
